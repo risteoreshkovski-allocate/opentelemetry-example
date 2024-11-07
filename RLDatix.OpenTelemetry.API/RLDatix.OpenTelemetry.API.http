@@ -1,0 +1,6 @@
+@RLDatix.OpenTelemetry.API_HostAddress = http://localhost:5257
+
+GET {{RLDatix.OpenTelemetry.API_HostAddress}}/weatherforecast?n=5
+Accept: application/json
+
+###
